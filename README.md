@@ -1,5 +1,5 @@
 
-# staticgen
+# Portscript
 
 Simple Static Page Generator in NodeJS.
 
