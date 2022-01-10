@@ -1,6 +1,9 @@
 {
   "name": "portscript",
   "version": "0.1.0",
+  "description": "A React portfolio template",
+  "author": "Sambhav Saxena",
+  "repo": "https://github.com/sambhavsaxena/portscript",
   "private": false,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",
