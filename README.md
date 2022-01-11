@@ -1,19 +1,19 @@
 
-# Portscript
+# Scriptag
 
 A CLI `create-react-app` template generator for simple portfolios.
 
 ## Installation
 
 ```bash
-$ npx create-react-app <project name> --template portscript
+$ npx create-react-app <project name> --template scriptag
 $ cd <project name>
 $ npm start
 ```
 
 In case of `yarn` package manager: 
 ```bash
-$ npx create-react-app <project name> --template portscript
+$ npx create-react-app <project name> --template scriptag
 $ cd <project name>
 $ yarn start
 ```
