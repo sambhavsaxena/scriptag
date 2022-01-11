@@ -38,4 +38,4 @@ The pages are generated in the `build` directory on root after you run `npm run 
 
 ## License
 
-[![GitHub license](https://img.shields.io/github/license/sambhav2612/staticgen.svg?style=for-the-badge)](https://github.com/sambhavsaxena/scriptag/License)
+[![GitHub license](https://img.shields.io/github/license/sambhav2612/staticgen.svg?style=for-the-badge)](https://github.com/sambhavsaxena/scriptag/blob/main/LICENSE)
