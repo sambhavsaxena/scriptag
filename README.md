@@ -36,7 +36,7 @@ The pages are generated in the `build` directory on root after you run `npm run 
 - react-bootstrap
 - sass
 
-#### Features
+## Features
     Sharply single page web template
     Pre defined fonts 
     Dependencies pre installed
