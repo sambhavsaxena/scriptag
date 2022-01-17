@@ -43,8 +43,9 @@ The pages are generated in the `build` directory on root after you run `npm run 
     Markdown support
     Blazing fast Next.js deployment
 
-<div align="center"><a href="https://www.npmjs.com/package/cra-template-scriptag" target="_blank">Visit here</a></div>
-
 ## License
 
 [![GitHub license](https://img.shields.io/github/license/sambhav2612/staticgen.svg?style=for-the-badge)](https://github.com/sambhavsaxena/scriptag/blob/main/LICENSE)
+
+<div align="center"><a href="https://www.npmjs.com/package/cra-template-scriptag" target="_blank">Visit here</a></div>
+
