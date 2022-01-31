@@ -2,7 +2,7 @@
 # Scriptag
 
 A CLI `create-react-app` template generator for minimal portfolios.
-Visit the official website [here](https://scriptag.vercel.app/).
+Visit the official website [here](https://scriptag.vercel.app/). The first install looks like this:
 
 <img src="./insdc.png">
 
