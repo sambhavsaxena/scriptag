@@ -4,6 +4,8 @@
 A CLI `create-react-app` template generator for minimal portfolios.
 Visit the official website [here](https://scriptag.vercel.app/).
 
+<img src="./insdc.png">
+
 ## Installation
 
 ```bash
