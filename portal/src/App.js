@@ -27,7 +27,11 @@ function App() {
     <div className="App body">
       <h1 className="name">scriptag <hr /> </h1>
       <p className='content'>Installation:</p>
-      <img src="https://telegra.ph/file/8606b84df6389087be656.png" alt="" /><br /><br />
+      <br />
+      <div className='img'>
+        <img src="https://telegra.ph/file/8606b84df6389087be656.png" alt="" />
+      </div>
+      <br />
       <p className='content'> <br /> <br /> <br />
         <ReactMarkdown children={md} />
       </p>
