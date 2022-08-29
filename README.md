@@ -16,7 +16,7 @@ $ npm start
 
 In case of `yarn` package manager: 
 ```bash
-$ npx create-react-app <project name> --template scriptag
+$ yarn create react-app <project name> --template scriptag
 $ cd <project name>
 $ yarn start
 ```
