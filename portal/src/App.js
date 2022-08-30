@@ -29,7 +29,7 @@ function App() {
       <p className='content'>Installation:</p>
       <br />
       <div className='img'>
-        <img src="https://telegra.ph/file/8606b84df6389087be656.png" alt="" />
+        <img src="https://raw.githubusercontent.com/thatsameguyokay/images/main/scriptag.png" alt="" />
       </div>
       <br />
       <p className='content'> <br /> <br /> <br />
