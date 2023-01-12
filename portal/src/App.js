@@ -29,7 +29,7 @@ function App() {
       <p className='content'>Installation:</p>
       <br />
       <div className='img'>
-        <img src="https://raw.githubusercontent.com/thatsameguyokay/images/main/scriptag.png" alt="" />
+        <img src="https://cdn.statically.io/gh/thatsameguyokay/images/main/scriptag.png" alt="" />
       </div>
       <br />
       <p className='content'> <br /> <br /> <br />
